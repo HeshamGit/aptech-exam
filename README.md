@@ -21,5 +21,5 @@ This project is licensed under the MIT License.
 
 ## Help
 
-Just Download and Learn.
+Just Download and Enjoy.
 
