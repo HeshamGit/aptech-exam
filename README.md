@@ -22,6 +22,14 @@ All exams for these three aptech courses:
     * SQL Server 2012
     * UI and UX For Responsive Design
     * Web Productivity Tools (Google App)
+* semester two
+    * Application Programming (C#)
+    * Fundamentals of IOT
+    * Fundamentals of Java
+    * Fundamentals of Linux Operating System
+    * Object-oriented Programming with Java
+    * Online Advertising and Management
+    * Optimize Web for Search Engines(SEO)
 * semester three
     * Agile SDLC For Software Projects
     * Architecting Applications for the Web
