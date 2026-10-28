@@ -76,6 +76,7 @@ This repository organizes past papers and sample exams across the three flagship
 * **Creating Services for the Web (Java Web Services / JAX-WS / REST)**
 * **Developing Mobile Applications using Android**
 * **Testing Android Applications & QA Automation**
+* **Xcode and iOS Application Development using Swift**
 * **Rich Internet Applications with AJAX & Java**
 * **Software Engineering Principles**
 * **Software Project Management (SPM / MS Project)**
